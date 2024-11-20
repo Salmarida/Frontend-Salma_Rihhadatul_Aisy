@@ -1,0 +1,10 @@
+import hamburger from "../assets/hamburger.svg";
+import x from "../assets/x.svg";
+import dr from "../assets/dr.svg";
+import heroimage from "../assets/heroimage.svg";
+import error from "../assets/error.svg";
+import mask from "../assets/mask.png";
+import healthy from "../assets/healthy.png";
+import death from "../assets/death.png";
+import pp from "../assets/pp.jpeg";
+export default { hamburger, x, dr, heroimage, error, mask, healthy, death, pp };
